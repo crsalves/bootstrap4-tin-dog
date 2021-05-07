@@ -70,7 +70,8 @@ p {
   padding: 7% 15%;
   background-color: #fff;
   position: relative;
-  z-index: 1; /* this line is not necessary, but I leave it here just for learning notes */
+  z-index: 1;
+  /* this line is not necessary, but I leave it here just for learning notes */
 }
 
 .feature-box {
@@ -125,8 +126,30 @@ p {
   padding: 3% 2%;
 }
 
-@media (max-width: 1028px){
+/* CTA Section */
+#cta {
+  background-color: #ff4c68;
+  color: #fff;
+  padding: 7% 15%;
+  text-align: center;
+}
 
+.cta-heading {
+  font-weight: bold;
+  font-size: 3.5rem;
+}
+
+/* Footer Section */
+#footer {
+  padding: 7% 15%;
+  text-align: center;
+}
+
+.social-icon {
+  margin: 20px 10px;
+}
+
+@media (max-width: 1028px) {
   #title {
     text-align: center;
   }
