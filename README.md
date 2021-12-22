@@ -3,7 +3,7 @@
   This was a project from the Udemy course "Complete Web Development Bootcamp"
 
 #### About
-  This is a website with the same concept as Tinder, but it is specifically for Dogs. It was developed using HTML, CSS, Bootstrap and its components like Carousel, Card, Buttons, Navbar etc.
+  This is a website with the same concept as Tinder, but it is specifically for Dogs. It was developed using HTML, CSS, Bootstrap, and its components like Carousel, Card, Buttons, Navbar, etc.
 
 
 #### Screenshots
