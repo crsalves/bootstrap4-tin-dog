@@ -10,7 +10,7 @@
 
 
 
-# Screenshots
+#### Screenshots
 ### Desktop view:
 ![image](https://user-images.githubusercontent.com/43006731/147126982-3c7a1d44-2553-4325-9f1c-185f93ec6669.png)
 ![image](https://user-images.githubusercontent.com/43006731/147127316-f2054b6a-2dcd-49df-b2fb-1f5b3ca0760b.png)
